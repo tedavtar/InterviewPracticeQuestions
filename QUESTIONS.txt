@@ -1,4 +1,4 @@
 Name: Serialize/Deserialize Binary Tree
-Prompt: BinaryTreeSerialize.txt
-Solution: BinaryTreeSerialize.java
+Folder: BinaryTreeSerialize.txt
+Remarks: Hard, 45min, LeetCode, seen: x1, Tree
 
