@@ -1,0 +1,4 @@
+Question: Create 2 functions. One to serialize a binary tree and the second to deserialize it.
+
+
+Comment: I encountered this question both on a 2nd round interview from an AI company and also on leetcode (#297) 
