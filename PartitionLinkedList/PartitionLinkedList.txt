@@ -1,0 +1,5 @@
+Question: Given a LinkedList of ints and a value, partition the linked list around this. Nodes with values less than value should come first. Stable sort-like, that is, preserve original ordering in the partitions
+
+Example: (from latched)
+Given 1->4->3->2->5->2 and x = 3,
+return 1->2->2->4->3->5.

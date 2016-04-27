@@ -2,3 +2,9 @@ Name: Serialize/Deserialize Binary Tree
 Folder: BinaryTreeSerialize.txt
 Remarks: Hard, 45min, LeetCode, seen: x1, Tree
 
+Name: Partition Linked List around value
+Folder: PartitionLinkedList
+Remarks: Easy, 30min, LeetCode, Linked List
+
+
+
