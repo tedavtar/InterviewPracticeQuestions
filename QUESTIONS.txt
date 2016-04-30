@@ -1,10 +1,14 @@
 Name: Serialize/Deserialize Binary Tree
 Folder: BinaryTreeSerialize.txt
-Remarks: Hard, 45min, LeetCode, seen: x1, Tree
+Remarks: Hard, 45min, LeetCode, Tree
 
 Name: Partition Linked List around value
 Folder: PartitionLinkedList
 Remarks: Easy, 30min, LeetCode, Linked List
+
+Name: Maximize Path Sum of Grid 
+Folder: MaxSumGrid
+Remarks: Multiple approaches, DP, 45min, Medium/Hard, LeetCode
 
 
 
