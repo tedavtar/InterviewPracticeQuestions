@@ -1,0 +1,6 @@
+Question: Given a 2D int array, output the max path sum that you can get starting from top left and ending at bottom right where you can only move down or right.
+
+Hint: optimal O(M*N) runtime-that is, size of the grid
+
+Comment: I encountered this question on a 1st round interview from an AI company. Also, a nearly identical question is on leetcode (#64) except replace maximizing with minimizing the path sum.
+
