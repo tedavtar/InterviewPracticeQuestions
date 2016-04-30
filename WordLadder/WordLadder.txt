@@ -1,0 +1,4 @@
+
+Question: Given two words (beginWord and endWord), and a dictionary's word list, find the length of shortest transformation sequence from beginWord to endWord, such that only one letter can be changed at a time and each intermediate word must exist in the word list. (note, beginWord and endWord are not necessarily in the dictionary)
+
+Comment: Directly from LeetCode (#127).  Additionally, I encountered a verbal version of this on a phone interview at an advertisement company.  I described this exact BFS algorithm and answered a few implementation clarifications.  Then we discussed optimizations—I got past the interview by mentioning iterative deepening depth first search possibly using heuristics like edit distance to prioritize exploration and the advantage of this DFS instead of BFS is that memory is conserved.  Another answer would be bidirectional BFS.
